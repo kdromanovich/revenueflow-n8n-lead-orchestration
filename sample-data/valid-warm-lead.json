@@ -1,0 +1,14 @@
+{
+  "first_name": "Noah",
+  "last_name": "Williams",
+  "email": "noah.williams@cedarfield.example",
+  "company": "Cedarfield Studio",
+  "employees": 18,
+  "budget_usd": 3500,
+  "timeline_days": 45,
+  "need": "We want a reliable first version of lead capture, CRM synchronization, and follow-up automation.",
+  "country": "United Kingdom",
+  "source": "website",
+  "consent": true
+}
+

@@ -1,0 +1,17 @@
+{
+  "first_name": "Maya",
+  "last_name": "Chen",
+  "email": "maya.chen@asterline.example",
+  "phone": "+1 202 555 0147",
+  "company": "Asterline Logistics",
+  "website": "https://asterline.example",
+  "company_description": "A fictional B2B logistics company modernizing its revenue operations.",
+  "country": "United States",
+  "employees": 85,
+  "budget_usd": 12000,
+  "timeline_days": 14,
+  "need": "We need to automate inbound lead routing, CRM updates, and sales follow-ups before our next campaign.",
+  "source": "demo",
+  "consent": true
+}
+
