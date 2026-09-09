@@ -1,5 +1,7 @@
 # RevenueFlow — AI Lead Qualification and Outreach
 
+[![Workflow checks](https://github.com/kdromanovich/revenueflow-n8n-lead-orchestration/actions/workflows/validate.yml/badge.svg)](https://github.com/kdromanovich/revenueflow-n8n-lead-orchestration/actions/workflows/validate.yml)
+
 [Русская версия](README_RU.md) · [Architecture](docs/ARCHITECTURE.md) · [Setup](docs/SETUP.md) · [Data contract](docs/DATA_CONTRACT.md)
 
 An n8n workflow for validating inbound B2B leads, enriching company context, calculating lead priority, updating HubSpot, and routing personalized outreach.
